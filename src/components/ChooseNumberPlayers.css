@@ -1,0 +1,32 @@
+.numButtonContainer {
+  flex-direction: row;
+}
+
+.chooseContainer {
+  align-items: center;
+  flex-direction: column;
+  margin: 5%;
+  padding: 5%;
+}
+
+.numButton {
+  min-width: 200px;
+  min-height: 200px;
+  margin: 10px;
+  border: 4px white;
+  border-style: dashed;
+  background-color: transparent;
+  outline: none;
+  border-radius: 20%;
+
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.numButton:hover {
+  background-color: #333842;
+}

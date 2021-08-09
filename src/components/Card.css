@@ -1,0 +1,71 @@
+.card {
+  margin: 20px;
+  min-width: 200px;
+  min-height: 300px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  position: relative;
+  outline: none;
+  transition: box-shadow 0.25s;
+}
+
+.smallCard {
+  margin: 10px;
+  min-width: 100px;
+  min-height: 150px;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  position: relative;
+  outline: none;
+  transition: box-shadow 0.25s;
+}
+
+.card:hover .smallCard:hover {
+  box-shadow: 0 0 20px 5px rgb(158, 158, 0);
+}
+
+.rotated {
+  transform-origin: 78px 134px;
+  transform: rotate(180deg);
+}
+
+.smallRotated {
+  transform-origin: 39px 67px;
+  transform: rotate(180deg);
+}
+
+.number {
+  position: absolute;
+  top: 0px;
+  margin: 15px;
+  font-size: 30px;
+}
+
+.smallNumber {
+  position: absolute;
+  top: 0px;
+  margin: 7px;
+  font-size: 15px;
+}
+
+.suit {
+  margin: 0;
+  padding: 0;
+  font-size: 125px;
+}
+
+.smallSuit {
+  margin: 0;
+  padding: 0;
+  font-size: 63px;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}

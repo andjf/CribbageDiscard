@@ -1,0 +1,14 @@
+.checkButton {
+  margin: 20px;
+
+  width: 200px;
+  min-height: 50px;
+
+  background-color: transparent;
+  border: 2px rgba(255, 255, 255, 0.5) solid;
+  border-radius: 10px;
+
+  color: white;
+  font-family: inherit;
+  font-size: large;
+}
