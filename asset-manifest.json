@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CribbageDiscard/static/css/main.188858ac.chunk.css",
+    "main.js": "/CribbageDiscard/static/js/main.8a040111.chunk.js",
+    "main.js.map": "/CribbageDiscard/static/js/main.8a040111.chunk.js.map",
+    "runtime-main.js": "/CribbageDiscard/static/js/runtime-main.0b2e3ee4.js",
+    "runtime-main.js.map": "/CribbageDiscard/static/js/runtime-main.0b2e3ee4.js.map",
+    "static/js/2.e64bf065.chunk.js": "/CribbageDiscard/static/js/2.e64bf065.chunk.js",
+    "static/js/2.e64bf065.chunk.js.map": "/CribbageDiscard/static/js/2.e64bf065.chunk.js.map",
+    "index.html": "/CribbageDiscard/index.html",
+    "static/css/main.188858ac.chunk.css.map": "/CribbageDiscard/static/css/main.188858ac.chunk.css.map",
+    "static/js/2.e64bf065.chunk.js.LICENSE.txt": "/CribbageDiscard/static/js/2.e64bf065.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2e3ee4.js",
+    "static/js/2.e64bf065.chunk.js",
+    "static/css/main.188858ac.chunk.css",
+    "static/js/main.8a040111.chunk.js"
+  ]
+}
